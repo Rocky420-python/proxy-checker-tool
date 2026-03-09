@@ -35,11 +35,8 @@ Check and manage proxies quickly with this tool. Works for both small and large 
 
 ```bash
 # Run Python version
-python proxy_checker.py proxies.txt
+python main.py proxies.txt
 
-# OR compile and run C++ version
-g++ proxy_checker.cpp -o proxy_checker
-./proxy_checker
 Installation
 
 Clone this repository:
