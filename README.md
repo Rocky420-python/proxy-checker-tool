@@ -44,7 +44,7 @@ Installation
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/proxy-checker-tool.git
+git clone [https://github.com/Rocky420-python/proxy-checker-tool.git]
 cd proxy-checker-tool
 
 Install dependencies (Python version):
